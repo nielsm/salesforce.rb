@@ -1,1 +1,3 @@
 SalesForce.rb aims to have an up-to-date Rails integration with SalesForce.com.  It is a lightweight, easy to use library for connecting your Rails application to SalesForce.
+
+Bug/enhancement requests should be made at our <a href="http://meerwerks.lighthouseapp.com/projects/54569-salesforcerb/">Lighthouse account</a> 
